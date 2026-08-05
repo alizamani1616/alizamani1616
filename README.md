@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Terminal Window -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=440&height=40&lines=%F0%9F%92%BB+alizamani1616+%40+github+%E2%80%94;Welcome+to+my+profile+%F0%9F%91%8B" alt="Terminal Banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&random=false&width=440&height=40&lines=%F0%9F%92%BB+alizamani1616+%40+github;Welcome+to+my+profile+%F0%9F%91%8B" alt="Terminal Banner" />
 
 </div>
 
