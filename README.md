@@ -17,7 +17,7 @@
   <span style="color: #ff5f56;">●</span>
   <span style="color: #ffbd2e;">●</span>
   <span style="color: #27c93f;">●</span>
-  &nbsp;&nbsp;&nbsp;<b><code style="color: #8b949e;">~/alizamani1616 — zsh — 80×24</code></b>
+  &nbsp;&nbsp;&nbsp;<b><code style="color: #8b949e;">~/alizamani1616 — 80×24</code></b>
 </div>
 
 <!-- Terminal Content -->
