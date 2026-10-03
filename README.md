@@ -107,7 +107,7 @@
 <pre style="color: #8b949e; font-size: 11px;">
 ╔══════════════════════════════════════════════╗
 ║              alizamani1616.ir                ║
-║          Full Stack · Technical SEO          ║
+║                  Full Stack                  ║
 ╚══════════════════════════════════════════════╝
 </pre>
 
