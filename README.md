@@ -30,12 +30,12 @@
   <span style="color: #79c0ff;">"name"</span><span style="color: #8b949e;">:</span> <span style="color: #a5d6ff;">"Ali Zamani"</span><span style="color: #8b949e;">,</span>
   <span style="color: #79c0ff;">"role"</span><span style="color: #8b949e;">:</span> <span style="color: #a5d6ff;">"Full Stack Developer"</span><span style="color: #8b949e;">,</span>
   <span style="color: #79c0ff;">"website"</span><span style="color: #8b949e;">:</span> <span style="color: #a5d6ff;">"alizamani1616.ir"</span><span style="color: #8b949e;">,</span>
-  <span style="color: #79c0ff;">"focus"</span><span style="color: #8b949e;">:</span> <span style="color: #a5d6ff;">"Building clean, scalable web apps"</span><span style="color: #8b949e;">,</span>
+  <span style="color: #79c0ff;">"focus"</span><span style="color: #8b949e;">:</span> <span style="color: #a5d6ff;">"Building clean, scalable web apps &amp; technical SEO"</span><span style="color: #8b949e;">,</span>
   <span style="color: #79c0ff;">"location"</span><span style="color: #8b949e;">:</span> <span style="color: #a5d6ff;">"Iran 🇮🇷"</span>
 <span style="color: #8b949e;">}</span>
 
 <span style="color: #00FF9F;">➜  ~</span> <span style="color: #58a6ff;">ls</span> <span style="color: #8b949e;">skills/</span>
-<span style="color: #f0883e;">PHP/</span>  <span style="color: #f0883e;">JavaScript/</span>  <span style="color: #f0883e;">Laravel/</span>  <span style="color: #f0883e;">Vue/</span>  <span style="color: #f0883e;">MySQL/</span>  <span style="color: #f0883e;">APIs/</span>
+<span style="color: #f0883e;">PHP/</span>  <span style="color: #f0883e;">JavaScript/</span>  <span style="color: #f0883e;">Laravel/</span>  <span style="color: #f0883e;">Vue/</span>  <span style="color: #f0883e;">MySQL/</span>  <span style="color: #f0883e;">APIs/</span>  <span style="color: #f0883e;">SEO/</span>
 
 <span style="color: #00FF9F;">➜  ~</span> <span style="color: #58a6ff;">./</span><span style="color: #f0883e;">connect.sh</span>
 <span style="color: #3fb950;">✓</span> Connection established. Let's build something great.
@@ -107,7 +107,7 @@
 <pre style="color: #8b949e; font-size: 11px;">
 ╔══════════════════════════════════════════════╗
 ║              alizamani1616.ir                ║
-║                                              ║
+║          Full Stack · Technical SEO          ║
 ╚══════════════════════════════════════════════╝
 </pre>
 
